@@ -4,7 +4,7 @@ WanderLust is a travel-based application that helps users explore new destinatio
 
 ## Features
 
--Baesd/Perform CRUD operation 
+-Based/Perform CRUD operation 
 
 ## Setup Instructions
 
